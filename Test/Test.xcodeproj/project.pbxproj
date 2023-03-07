@@ -16,6 +16,7 @@
 		96AF1B0129B65E3400AD1CB3 /* TestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96AF1B0029B65E3400AD1CB3 /* TestTests.swift */; };
 		96AF1B0B29B65E3400AD1CB3 /* TestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96AF1B0A29B65E3400AD1CB3 /* TestUITests.swift */; };
 		96AF1B0D29B65E3400AD1CB3 /* TestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96AF1B0C29B65E3400AD1CB3 /* TestUITestsLaunchTests.swift */; };
+		96AF1B1A29B65EA100AD1CB3 /* Math.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96AF1B1929B65EA100AD1CB3 /* Math.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		96AF1B0629B65E3400AD1CB3 /* TestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		96AF1B0A29B65E3400AD1CB3 /* TestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestUITests.swift; sourceTree = "<group>"; };
 		96AF1B0C29B65E3400AD1CB3 /* TestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		96AF1B1929B65EA100AD1CB3 /* Math.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Math.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				96AF1AE929B65E3000AD1CB3 /* AppDelegate.swift */,
 				96AF1AEB29B65E3000AD1CB3 /* SceneDelegate.swift */,
 				96AF1AED29B65E3000AD1CB3 /* ViewController.swift */,
+				96AF1B1929B65EA100AD1CB3 /* Math.swift */,
 				96AF1AEF29B65E3000AD1CB3 /* Main.storyboard */,
 				96AF1AF229B65E3400AD1CB3 /* Assets.xcassets */,
 				96AF1AF429B65E3400AD1CB3 /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				96AF1AEE29B65E3000AD1CB3 /* ViewController.swift in Sources */,
+				96AF1B1A29B65EA100AD1CB3 /* Math.swift in Sources */,
 				96AF1AEA29B65E3000AD1CB3 /* AppDelegate.swift in Sources */,
 				96AF1AEC29B65E3000AD1CB3 /* SceneDelegate.swift in Sources */,
 			);
